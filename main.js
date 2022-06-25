@@ -76,7 +76,7 @@ productsDOM.innerHTML =result;
                     // set cart values
                     this.setCartValues(cart);
                     // display cart items
-this.addCartItem(cartItem)
+                    this.addCartItem(cartItem)
                     //show cart
                     this.showCart();
                 });
@@ -116,7 +116,7 @@ this.addCartItem(cartItem)
             cart = Storage.getCart();
             this.setCartValues(cart);
             this.populateCart(cart);
-            cartBtn.addEventListener("click", this.showCart);
+             cartBtn.addEventListener("click", this.showCart);
             closeCartBtn.addEventListener("click", this.hideCart);  
         }
         populateCart(cart){
@@ -143,7 +143,7 @@ class Storage{
         return localStorage.getItem('cart')?JSON.parse(localStorage.getItem('cart')):[]
     }
 }
-window.addEventListener("DOMContentLoaded", ()=>{
+document.addEventListener("DOMContentLoaded", ()=>{
     const ui = new UI();
     const products = new Products();
     //setup app
