@@ -1,7 +1,7 @@
 {
     "items": [
       {
-        "sys": { "id": "" },
+        "sys": { "id": "1" },
         "fields": {
           "title": "handloom",
           "price": 10.99,
