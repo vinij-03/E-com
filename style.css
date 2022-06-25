@@ -19,13 +19,13 @@ body {
   font-family: "Lato", sans-serif;
 }
 .navbar {
-    /* position: sticky; */
+    position: sticky;
     top: 0;
     height: 60px;
     width: 100%;
     display: flex;
     align-items: center;
-    /* background: rgb(231, 226, 221); */
+    background: rgb(231, 226, 221);
     z-index: 1;
   }
   .navbar-center {
@@ -42,6 +42,7 @@ body {
     cursor: pointer;
   }
   .cart-btn {
+    top: 10px;
     position: relative;
     cursor: pointer;
   }
@@ -95,11 +96,11 @@ body {
     }
     
     .input {
-        padding: 10px;
+        /* padding: 1px; */
         width: 80px;
         height: 80px;
         background: none;
-        border: 4px solid white;
+        border: 5px solid white;
         border-radius: 50px;
         box-sizing: border-box;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
