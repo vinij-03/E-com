@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "handloom",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "handloom",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "handloom",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "handloom",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "handloom",
+          "price": 88.99,
+          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "handloom",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "handloom",
+          "price": 45.99,
+          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "handloom ",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+        }
+      }
+    ]
+  }
