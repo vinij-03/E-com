@@ -1,11 +1,11 @@
 {
     "items": [
       {
-        "sys": { "id": "1" },
+        "sys": { "id": "" },
         "fields": {
           "title": "handloom",
           "price": 10.99,
-          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+          "image": { "fields": { "file": { "url": "./images/photo_2022-06-25_19-27-23.jpg" } } }
         }
       },
       
@@ -14,7 +14,7 @@
         "fields": {
           "title": "handloom",
           "price": 32.99,
-          "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
+          "image": { "fields": { "file": { "url": "./images/pexels-korhan-erdol-2344613.jpg" } } }
         }
       },
       {
