@@ -6,6 +6,10 @@
     --mainSpacing: 0.1rem;
     --mainTransition: all 0.3s linear;
   }
+  .div-1{
+   
+  }
+  
 .navbar {
     position: sticky;
     top: 0;
