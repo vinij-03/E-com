@@ -95,7 +95,7 @@ productsDOM.innerHTML =result;
     addCartItem(item){
           const div = document.createElement('div');
           div.classList.add('cart-item');
-          div.innerHTML= `  <img src=${item.image} alt="" srcset="">
+          div.innerHTML= `  <img src=${item.image} alt="product" />
           <div>
               <h4> ${item.title}</h4>
               <h5>Rs${item.price}</h5>
