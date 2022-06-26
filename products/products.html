@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>products</title>
+    <link rel="stylesheet" href="/products/p-style.css">
+    <script src="https://kit.fontawesome.com/f3f0836818.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-center">
+            <span class="nav-icon">
+                <i class="fas fa-bars"></i>
+            </span>
+            <!-- <img src="./images/logo.svg" alt="logo"> -->
+            <h2>crafty</h2>
+                <div class="cart-btn">
+                <span class="nav-icon">
+                    <i class="fas fa-cart-plus"></i>
+                </span>
+                <div class="cart-items">0</div>
+            </div>
+        </div>
+    </nav>
+    <section class="products">
+        <div class="section-title">
+            <h2>Our Products</h2>
+        </div>
+       <div class="products-center">
+        `<article class="product">
+            <div class="img-container">
+                <img src=${product.image}
+                alt="product" class="product-img" />
+                <button class="bag-btn" data-id=${product.id}>
+                    <i class="fas fa-shopping-cart"></i>
+                    add to cart
+                </button>
+            </div>
+            <h3>${product.title}</h3>
+            <h4>Rs${product.price}</h4>
+        </article>
+      </div> 
+    </section>
+    <div class="cart-overlay">
+        <div class="cart">
+        <span class="close-cart">
+            <i class="fas fa-window-close"></i>
+        </span>
+        <h2>your cart</h2>
+        <div class="cart-content">
+            <!-- cart item -->
+            <!-- <div class="cart-item">
+              
+            </div> -->
+            <!-- cart item X -->
+        </div>
+        <div class="cart-footer">
+            <h3>your total : 
+                <span class="cart-total">0</span>
+            </h3>
+            <button class="clear-cart banner-btn" style="background-color: rgba(244, 85, 12, 0.808); ">clear cart</button>
+        </div>
+    </div>
+    </div>
+    <script src="/products/app.js"></script>
+</body>
+</html>
