@@ -3,6 +3,7 @@
       {
         "sys": { "id": "1" },
         "fields": {
+           "type": "",
           "title": "handloom",
           "price": 10.99,
           "image": { "fields": { "file": { "url": "./images/photo_2022-06-25_19-27-23.jpg" } } }
