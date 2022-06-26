@@ -28,6 +28,7 @@ body {
     background: rgb(231, 226, 221);
     z-index: 1;
   }
+  
   .navbar-center {
     width: 100%;
     max-width: 1170px;
