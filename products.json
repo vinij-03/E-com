@@ -33,5 +33,27 @@
           "image": { "fields": { "file": { "url": "./images/ankur-madan-zcoGOK4fY1I-unsplash.jpg" } } }
         }
       }
+      ,
+      
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "handloom",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./images/pexels-korhan-erdol-2344613.jpg" } } }
+        }
+      }
+      ,
+      
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "handloom",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./images/pexels-korhan-erdol-2344613.jpg" } } }
+        }
+      }
+      
+      
     ]
   }
