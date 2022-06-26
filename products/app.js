@@ -53,8 +53,6 @@ class UI{
     });
     productsDOM.innerHTML =result;
 
-    displayRecommendation(products);
-    if products
     }
     getBagButtons(){
       const buttons = [...document.querySelectorAll(".bag-btn")];
