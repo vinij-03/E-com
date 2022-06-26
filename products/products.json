@@ -3,6 +3,7 @@
       {
         "sys": { "id": "1" },
         "fields": {
+          "type":"saree",
           "title": "handloom",
           "price": 10.99,
           "image": { "fields": { "file": { "url": "/images/pexels-korhan-erdol-2344613.jpg" } } }
