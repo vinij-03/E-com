@@ -87,7 +87,7 @@
         "fields": {
           "title": "handloom ",
           "price": 33.99,
-          "image": { "fields": { "file": { "url": "/images/pexels-korhan-erdol-2344613.jpgnnnnn" } } }
+          "image": { "fields": { "file": { "url": "/images/pexels-korhan-erdol-2344613.jpg" } } }
         }
       },
       {
