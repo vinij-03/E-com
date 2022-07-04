@@ -35,12 +35,14 @@ body {
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content:space-between;
+    justify-content:space-evenly;
     padding: 0 1.5rem;
   }
   .nav-icon {
-    font-size: 1.5rem;
+  
+    font-size: 2rem;
     cursor: pointer;
+    
   }
   .cart-btn {
     top: 10px;
